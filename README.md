@@ -5,7 +5,7 @@
 Name| Student Number|
 -|-
 Yin Zhou|100314426
-Kavinaa Uthayachandran |
+Kavinaa Uthayachandran | 100566729
 Mohtasim Siddiqui | 100635463
 
 
